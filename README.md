@@ -1,13 +1,14 @@
-# Nguyễn Tấn Đạt - K68CNTTA
+# 
+Nguyễn Tấn Đạt - K68CNTTA
+Khoa Công Nghệ Thông Tin
+Thầy phụ trách: Ngô Công Thắng
 
-## Công cụ
+
+## Công cụ thành thạo
 - Java(OOP)
 - Eclipse
 - JavaFX Scene Buider
+- Vscode
 
 ## Dự án
-### Game caro (thuật toán cắt tỉa Alpha-Beta)
-- Ngôn ngữ: Java
-- IDE Eclipse
-- Tính năng
-    - Thuật toán trí tuệ nhân tạo khi chơi game đối kháng (Minimax)
+- Game_Caro (https://github.com/NguyenTanDat24/Game_Caro)
